@@ -1,0 +1,22 @@
+# Core ML & Data
+numpy
+pandas
+scikit-learn
+umap-learn
+matplotlib
+seaborn
+
+# Deep Learning
+tensorflow
+
+# GPU Accelerated RAPIDS Libraries
+cupy-cuda11x
+cuml
+cudf
+
+# Dataset Handling
+kagglehub
+Pillow
+
+# Utilities
+notebook
