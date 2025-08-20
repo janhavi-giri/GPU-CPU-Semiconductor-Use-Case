@@ -10,7 +10,7 @@ This repository demonstrates how GPU acceleration with **NVIDIA RAPIDS** can sig
 - Case study highlighting where GPUs deliver massive speedups (UMAP) and where CPUs can remain competitive (Random Forest on smaller data)
 
 ## 📊 Dataset
-- **WM-811K** wafer map dataset from Kaggle
+- **WM-811K** wafer map dataset from Kaggle: https://www.kaggle.com/datasets/qingyi/wm811k-wafer-map
 - Contains 811,457 wafer maps across 8 defect categories: `Center, Donut, Edge-Loc, Edge-Ring, Loc, Random, Scratch, Near-full`
 
 ## 🚀 Usage
